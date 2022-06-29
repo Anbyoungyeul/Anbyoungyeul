@@ -12,8 +12,7 @@
 </p>
 
 <div align=center>
-    ![Byeong yeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anbyoungyeul)
-
-[![monggu.dev@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qudduf9313@gmail.com)](mailto:qudduf9313@gmail.com) : qudduf9313@gmail.com 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anbyoungyeul)](https://github.com/anuraghazra/github-readme-stats)
     
+[![monggu.dev@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qudduf9313@gmail.com)](mailto:qudduf9313@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://bymalware.tistory.com//)](https://bymalware.tistory.com//) 
