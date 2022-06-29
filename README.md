@@ -10,9 +10,15 @@
 
 <h3 align='center'>My Blog</h3>
 <p align='center'>
-  <a href="https://bymalware.tistory.com"><img src="https://img.shields.io/badge/My%Tistory-F16728?style=flat-square&logo=Vitess&logoColor=white"/></a>&nbsp
+  <a href="https://bymalware.tistory.com"><img src="https://img.shields.io/badge/My%20Tistory-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp
 </p>
-[![monggu.dev@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qudduf9313@gmail.com)](mailto:qudduf9313@gmail.com)
 
+<h3 align='center'>G-mail</h3>
+<p align='center'>
+  <a href="mailto:qudduf9313@gmail.com"><img src="https://img.shields.io/badge/G--Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
+</p>
 
-[![Byeongyeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongyeolahn)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+<div align=center>
+![Byeongyeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongyeolahn&show_icons=true)
