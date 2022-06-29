@@ -8,8 +8,7 @@
 <div align='center'>
     💻 Tech<br/>
     <img src ='https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white'/>
-    [![Byeong yeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anbyoungyeul)](https://github.com/anuraghazra/github-readme-stats)
-
+    [![Byeong yeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anbyoungyeul&show_icons=true)
 </div>
 
 
