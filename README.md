@@ -7,13 +7,12 @@
 
 <p align='center'>
     <strong>💻Tech</strong><br/>
-    <img src ='https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white'/>
-    <img src="https://img.shields.io/badge/JS-#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+    <img src='https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white'>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
 </p>
 
 <div align=center>
-[![Anbyoungyeul's github stats](https://github-readme-stats.vercel.app/api?username=Anbyoungyeul&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anbyoungyeul)](https://github.com/anuraghazra/github-readme-stats)
     
 [![monggu.dev@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qudduf9313@gmail.com)](mailto:qudduf9313@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://bymalware.tistory.com//)](https://bymalware.tistory.com//) 
