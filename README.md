@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&desc=byeong%20Yeol's%20github&descAlign=64&descAlignY=45&fontSize=70&fontAlignY=30)
 <br>
-<p align='center'>Be First or Best</p>
+<p align='center'>
+    👍Be First or Best👍</br>
+    악성코드 분석, 파이썬을 사용한 개발을</br>
+    공부하는 대학생입니다❗
+</p>
 <h3 align='center'>💻Tech Stack💻</h3>
 
 <p align='center'>
