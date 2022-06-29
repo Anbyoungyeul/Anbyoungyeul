@@ -6,8 +6,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Welcome&desc=byeong%20Yeol's%20git&descAlign=64&descAlignY=45&animation=fadein%&fontSize=50&fontAlignY=30)
 
 <div align='center'>
-    ##💻 Tech
-    ![<img src ='https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white'/>
+    💻 Tech
+    <img src ='https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white'/>
 </div>
 
 - Type some Markdown on the left
