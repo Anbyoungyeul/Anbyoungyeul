@@ -1,8 +1,3 @@
-# 
-## Be first or Best
-
-(https://bymalware.tistory.com/)
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&desc=byeong%20Yeol's%20github&descAlign=64&descAlignY=45&fontSize=70&fontAlignY=30)
 
 <p align='center'>
