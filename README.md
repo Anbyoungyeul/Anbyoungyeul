@@ -12,7 +12,7 @@
 </p>
 
 <div align=center>
-[![Anbyoungyeul's github stats](https://github-readme-stats.vercel.app/api?username=Anbyoungyeul&show_icons=true&theme=dark)](https://github.com/Anbyoungyeul/github-readme-stats)
+[![Anbyoungyeul's github stats](https://github-readme-stats.vercel.app/api?username=Anbyoungyeul&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
     
 [![monggu.dev@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qudduf9313@gmail.com)](mailto:qudduf9313@gmail.com)
