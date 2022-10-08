@@ -22,10 +22,7 @@
 
 <p align='center'>
   <a href="mailto:qudduf9313@gmail.com"><img src="https://img.shields.io/badge/G--Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
-    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbyeongyeolahn&count_bg=%237CE874&title_bg=%23C61111&icon=awesomelists.svg&icon_color=%23E7E7E7&title=Toal&edge_flat=false)](https://hits.seeyoufarm.com)
 </p>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbyeongyeolahn&count_bg=%237CE874&title_bg=%23C61111&icon=awesomelists.svg&icon_color=%23E7E7E7&title=Toal&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </br>
 <div align='center'>
