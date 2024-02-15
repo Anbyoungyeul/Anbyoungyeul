@@ -15,7 +15,7 @@
 <h3 align='center'>My Blog</h3>
 
 <p align='center'>
-  <a href="https://bymalware.tistory.com"><img src="https://img.shields.io/badge/My%20Tistory-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp
+  <a href="https://y30l.tistory.com"><img src="https://img.shields.io/badge/My%20Tistory-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp
 </p>
 
 <h3 align='center'>G-mail</h3>
